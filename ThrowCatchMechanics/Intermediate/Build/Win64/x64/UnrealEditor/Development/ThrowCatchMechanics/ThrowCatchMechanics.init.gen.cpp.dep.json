@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unrealgamemechanics\\throwcatchmechanics\\intermediate\\build\\win64\\unrealeditor\\inc\\throwcatchmechanics\\uht\\throwcatchmechanics.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unrealgamemechanics\\throwcatchmechanics\\intermediate\\build\\win64\\x64\\throwcatchmechanicseditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unrealgamemechanics\\throwcatchmechanics\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\throwcatchmechanics\\definitions.throwcatchmechanics.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

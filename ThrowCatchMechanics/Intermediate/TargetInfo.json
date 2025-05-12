@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ThrowCatchMechanics",
+			"Path": "..\\Source\\ThrowCatchMechanics.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ThrowCatchMechanicsEditor",
+			"Path": "..\\Source\\ThrowCatchMechanicsEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

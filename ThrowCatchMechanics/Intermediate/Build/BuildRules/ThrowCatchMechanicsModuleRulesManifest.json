@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\UnrealGameMechanics\\ThrowCatchMechanics\\Source\\ThrowCatchMechanics\\ThrowCatchMechanics.Build.cs",
+		"D:\\UnrealGameMechanics\\ThrowCatchMechanics\\Source\\ThrowCatchMechanics.Target.cs",
+		"D:\\UnrealGameMechanics\\ThrowCatchMechanics\\Source\\ThrowCatchMechanicsEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}

@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unrealgamemechanics\\throwcatchmechanics\\intermediate\\build\\win64\\unrealeditor\\inc\\throwcatchmechanics\\uht\\throwcatchmechanicsgamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unrealgamemechanics\\throwcatchmechanics\\intermediate\\build\\win64\\x64\\throwcatchmechanicseditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unrealgamemechanics\\throwcatchmechanics\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\throwcatchmechanics\\definitions.throwcatchmechanics.h",
+            "d:\\unrealgamemechanics\\throwcatchmechanics\\source\\throwcatchmechanics\\throwcatchmechanicsgamemode.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "d:\\unrealgamemechanics\\throwcatchmechanics\\intermediate\\build\\win64\\unrealeditor\\inc\\throwcatchmechanics\\uht\\throwcatchmechanicsgamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
