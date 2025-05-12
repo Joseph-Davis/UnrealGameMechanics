@@ -1,2 +1,2 @@
-# Unreal GameM echanics
+# Unreal Game Mechanics
 This is a repo to store unreal engine game mechanic templates and how-tos
